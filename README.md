@@ -249,8 +249,9 @@ This project demonstrates:
 ---
 
 ## 👩‍💻 Developed by:
-Sanika Muluk
-Java Fullstack Developer
+**Sanika Muluk**
+**Computer Engineer Student**
+**Java Fullstack Developer**
 
 Developed as a Student Task Management System project to demonstrate backend and full-stack development skills using Spring Boot.
 
